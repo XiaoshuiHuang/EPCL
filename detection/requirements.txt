@@ -1,0 +1,11 @@
+numpy==1.23.0
+llvmlite
+numba
+tensorboardX
+easydict
+pyyaml
+scikit-image
+tqdm
+SharedArray
+timm
+terminaltables

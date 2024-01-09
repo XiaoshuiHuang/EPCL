@@ -1,0 +1,14 @@
+pyyaml 
+easydict 
+numba 
+torchpack 
+strictyaml 
+llvmlite 
+easydict 
+scikit-image 
+tqdm 
+SharedArray 
+prettytable 
+opencv-python
+torch-scatter
+timm
