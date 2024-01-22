@@ -1,4 +1,4 @@
-# EPCL - AAAI 2024
+# EPCL - AAAI 2024 Oral
 
 ## EPCL: Frozen CLIP Transformer is An Efficient Point Cloud Encoder, [paper](https://arxiv.org/abs/2212.04098)
 
